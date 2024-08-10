@@ -1,4 +1,4 @@
-# Discord Bot with OpenAI Integration
+# Mid Chat
 
 このボットは、ユーザーの入力に基づいてOpenAIのGPTモデルを使用し、Midjourneyのプロンプトを生成するDiscordボットです。
 これを導入すれば、会話形式でpromptの修正ができます。
